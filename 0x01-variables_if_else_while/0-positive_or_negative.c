@@ -24,5 +24,5 @@ else
 {
 printf("%d is posestive\n", n);
 }
-return (0)
+return (0);
 }
